@@ -1,3 +1,13 @@
 .ItemAddForm {
-padding: 10px;
+margin-top: 10px;
+}
+
+
+.ItemAddForm input {
+    margin-right: 3px;
+}
+
+
+.color:hover {
+    background-color: darkgrey;
 }
